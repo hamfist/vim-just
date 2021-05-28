@@ -2,7 +2,7 @@
 
 Vim syntax for [casey/just](https://github.com/casey/just).
 
-> :warning: this is pretty rough! feedback wanted :warning:
+> :warning: this is pretty rough! you probably should use [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) instead! :warning:
 
 ## installation
 
