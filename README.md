@@ -1,6 +1,8 @@
 # vim-just
 
-Vim syntax for casey/just
+Vim syntax for [casey/just](https://github.com/casey/just).
+
+> :warning: this is pretty rough! feedback wanted :warning:
 
 ## installation
 
